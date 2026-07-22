@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ---
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.
+  com/USERNAME/REPOSITORY/main/dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.
+  com/USERNAME/REPOSITORY/main/light.svg">
+      <img alt="Developer Profile Hero Banner" src="https://raw.githubusercontent.
+  com/USERNAME/REPOSITORY/main/dark.svg" width="100%">
+    </picture>
